@@ -1,0 +1,8 @@
+[firefox]
+profile = <profile-name>
+
+[general]
+requestFolder = ../data/requests/
+responseFolder = ../data/responses/
+maximumSites = 20
+defaultFile = ../data/websiteList.txt
