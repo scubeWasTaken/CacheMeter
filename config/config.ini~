@@ -1,0 +1,6 @@
+[firefox]
+profile = /home/sagar/.mozilla/firefox/fnc7pzp4.default
+requestFolder = ../data/requests/
+responseFolder = ../data/responses/
+maximumSites = 20
+defaultFile = ../data/websiteList.txt
